@@ -15,7 +15,7 @@ Built using the **Ames Housing Dataset**, the system goes beyond prediction by o
 
 ## 🎥 Demo
 
-https://github.com/liam-pasinato/housing-DSS-MSE433/433_demo.mov
+https://github.com/liam-pasinato/housing-DSS-MSE433/433_demo.mp4
 
 ---
 
