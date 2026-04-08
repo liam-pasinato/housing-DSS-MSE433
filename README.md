@@ -13,6 +13,11 @@ Built using the **Ames Housing Dataset**, the system goes beyond prediction by o
 -  **Renovation ROI analysis**
 -  **Ranked improvement suggestions**
 
+## 🎥 Demo
+
+https://github.com/liam-pasinato/housing-DSS-MSE433/433_demo.movie
+
+
 ---
 
 ## ✨ Key Features
